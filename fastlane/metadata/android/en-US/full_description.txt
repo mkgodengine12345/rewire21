@@ -1,0 +1,37 @@
+<h1>🧠 REWIRE21 - Rewire Your Brain in 21 Days</h1>
+
+<p>REWIRE21 is an open-source, privacy-first digital discipline app that helps you break phone addiction in 21 days using a gamified point economy and AI-powered self-control system.</p>
+
+<h2>🔥 Features</h2>
+<ul>
+<li><b>21-Day Challenge</b> - Rewire your brain in 21 days</li>
+<li><b>Point Economy</b> - 1-6 hours/day limit</li>
+<li><b>App Lock</b> - Password lock + Selfie on 3 wrong attempts</li>
+<li><b>Browser Lock</b> - 30-min cool-off for 18+ content</li>
+<li><b>AI Companion</b> - Movable floating icon with motivation</li>
+<li><b>Panic Mode</b> - 1-tap emergency browser lockdown</li>
+<li><b>100% Private</b> - All data stays on your device</li>
+</ul>
+
+<h2>🪙 Point Economy</h2>
+<ul>
+<li>1 hour/day → 2,000 points for 21 days</li>
+<li>2 hours/day → 4,000 points for 21 days</li>
+<li>3 hours/day → 5,000 points for 21 days</li>
+<li>4 hours/day → 7,000 points for 21 days</li>
+<li>5 hours/day → 8,500 points for 21 days</li>
+<li>6 hours/day → 10,000 points for 21 days</li>
+<li>Entertainment: -2 points/min</li>
+<li>Productive: +1.5 points/min</li>
+</ul>
+
+<h2>🔒 Privacy Promise</h2>
+<ul>
+<li>ALL data stored locally on your device</li>
+<li>ZERO monitoring of Banking/UPI apps</li>
+<li>ZERO inspection of encrypted chats</li>
+<li>ZERO data ever sent to any server</li>
+</ul>
+
+<hr/>
+<p>🔗 <b>Source Code:</b> https://github.com/mkgodengine12345/rewire21</p>
